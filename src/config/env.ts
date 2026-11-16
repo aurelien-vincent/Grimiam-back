@@ -9,6 +9,8 @@ const envSchema = z.object({
   PORT: z.coerce.number().int().positive().default(3000),
 
   CORS_ORIGINS: z.string().default("http://localhost:8081"),
+
+  MONGODB_URI: z.string().min(1),
 });
 
 export const env = envSchema.parse(process.env);
