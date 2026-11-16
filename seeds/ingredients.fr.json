@@ -1,0 +1,3272 @@
+[
+  {
+    "name": "ail",
+    "normalizedName": "ail",
+    "aliases": [
+      "gousse d'ail"
+    ]
+  },
+  {
+    "name": "échalote",
+    "normalizedName": "échalote",
+    "aliases": [
+      "échalotes"
+    ]
+  },
+  {
+    "name": "oignon jaune",
+    "normalizedName": "oignon jaune",
+    "aliases": []
+  },
+  {
+    "name": "oignon rouge",
+    "normalizedName": "oignon rouge",
+    "aliases": []
+  },
+  {
+    "name": "oignon blanc",
+    "normalizedName": "oignon blanc",
+    "aliases": []
+  },
+  {
+    "name": "oignon nouveau",
+    "normalizedName": "oignon nouveau",
+    "aliases": [
+      "cébette"
+    ]
+  },
+  {
+    "name": "poireau",
+    "normalizedName": "poireau",
+    "aliases": []
+  },
+  {
+    "name": "carotte",
+    "normalizedName": "carotte",
+    "aliases": []
+  },
+  {
+    "name": "panais",
+    "normalizedName": "panais",
+    "aliases": []
+  },
+  {
+    "name": "navet",
+    "normalizedName": "navet",
+    "aliases": []
+  },
+  {
+    "name": "rutabaga",
+    "normalizedName": "rutabaga",
+    "aliases": []
+  },
+  {
+    "name": "betterave rouge",
+    "normalizedName": "betterave rouge",
+    "aliases": []
+  },
+  {
+    "name": "radis",
+    "normalizedName": "radis",
+    "aliases": []
+  },
+  {
+    "name": "radis noir",
+    "normalizedName": "radis noir",
+    "aliases": []
+  },
+  {
+    "name": "céleri-rave",
+    "normalizedName": "céleri-rave",
+    "aliases": []
+  },
+  {
+    "name": "céleri branche",
+    "normalizedName": "céleri branche",
+    "aliases": []
+  },
+  {
+    "name": "fenouil",
+    "normalizedName": "fenouil",
+    "aliases": []
+  },
+  {
+    "name": "chou blanc",
+    "normalizedName": "chou blanc",
+    "aliases": []
+  },
+  {
+    "name": "chou rouge",
+    "normalizedName": "chou rouge",
+    "aliases": []
+  },
+  {
+    "name": "chou vert",
+    "normalizedName": "chou vert",
+    "aliases": []
+  },
+  {
+    "name": "chou frisé",
+    "normalizedName": "chou frisé",
+    "aliases": []
+  },
+  {
+    "name": "chou kale",
+    "normalizedName": "chou kale",
+    "aliases": [
+      "kale"
+    ]
+  },
+  {
+    "name": "chou de Bruxelles",
+    "normalizedName": "chou de bruxelles",
+    "aliases": []
+  },
+  {
+    "name": "chou-fleur",
+    "normalizedName": "chou-fleur",
+    "aliases": []
+  },
+  {
+    "name": "brocoli",
+    "normalizedName": "brocoli",
+    "aliases": []
+  },
+  {
+    "name": "romanesco",
+    "normalizedName": "romanesco",
+    "aliases": []
+  },
+  {
+    "name": "artichaut",
+    "normalizedName": "artichaut",
+    "aliases": []
+  },
+  {
+    "name": "asperge verte",
+    "normalizedName": "asperge verte",
+    "aliases": []
+  },
+  {
+    "name": "asperge blanche",
+    "normalizedName": "asperge blanche",
+    "aliases": []
+  },
+  {
+    "name": "courgette",
+    "normalizedName": "courgette",
+    "aliases": []
+  },
+  {
+    "name": "courge butternut",
+    "normalizedName": "courge butternut",
+    "aliases": [
+      "butternut"
+    ]
+  },
+  {
+    "name": "potimarron",
+    "normalizedName": "potimarron",
+    "aliases": []
+  },
+  {
+    "name": "potiron",
+    "normalizedName": "potiron",
+    "aliases": []
+  },
+  {
+    "name": "citrouille",
+    "normalizedName": "citrouille",
+    "aliases": []
+  },
+  {
+    "name": "concombre",
+    "normalizedName": "concombre",
+    "aliases": []
+  },
+  {
+    "name": "cornichon",
+    "normalizedName": "cornichon",
+    "aliases": []
+  },
+  {
+    "name": "poivron rouge",
+    "normalizedName": "poivron rouge",
+    "aliases": []
+  },
+  {
+    "name": "poivron vert",
+    "normalizedName": "poivron vert",
+    "aliases": []
+  },
+  {
+    "name": "poivron jaune",
+    "normalizedName": "poivron jaune",
+    "aliases": []
+  },
+  {
+    "name": "piment frais",
+    "normalizedName": "piment frais",
+    "aliases": []
+  },
+  {
+    "name": "jalapeño",
+    "normalizedName": "jalapeño",
+    "aliases": []
+  },
+  {
+    "name": "pomme de terre",
+    "normalizedName": "pomme de terre",
+    "aliases": []
+  },
+  {
+    "name": "patate douce",
+    "normalizedName": "patate douce",
+    "aliases": []
+  },
+  {
+    "name": "yam",
+    "normalizedName": "yam",
+    "aliases": []
+  },
+  {
+    "name": "manioc",
+    "normalizedName": "manioc",
+    "aliases": []
+  },
+  {
+    "name": "topinambour",
+    "normalizedName": "topinambour",
+    "aliases": []
+  },
+  {
+    "name": "salsifis",
+    "normalizedName": "salsifis",
+    "aliases": []
+  },
+  {
+    "name": "épinard",
+    "normalizedName": "épinard",
+    "aliases": []
+  },
+  {
+    "name": "blette",
+    "normalizedName": "blette",
+    "aliases": [
+      "bette"
+    ]
+  },
+  {
+    "name": "laitue",
+    "normalizedName": "laitue",
+    "aliases": []
+  },
+  {
+    "name": "roquette",
+    "normalizedName": "roquette",
+    "aliases": []
+  },
+  {
+    "name": "mâche",
+    "normalizedName": "mâche",
+    "aliases": []
+  },
+  {
+    "name": "endive",
+    "normalizedName": "endive",
+    "aliases": []
+  },
+  {
+    "name": "chicorée",
+    "normalizedName": "chicorée",
+    "aliases": []
+  },
+  {
+    "name": "scarole",
+    "normalizedName": "scarole",
+    "aliases": []
+  },
+  {
+    "name": "frisée",
+    "normalizedName": "frisée",
+    "aliases": []
+  },
+  {
+    "name": "cresson",
+    "normalizedName": "cresson",
+    "aliases": []
+  },
+  {
+    "name": "chou-rave",
+    "normalizedName": "chou-rave",
+    "aliases": []
+  },
+  {
+    "name": "pois mange-tout",
+    "normalizedName": "pois mange-tout",
+    "aliases": []
+  },
+  {
+    "name": "petit pois",
+    "normalizedName": "petit pois",
+    "aliases": []
+  },
+  {
+    "name": "haricot vert",
+    "normalizedName": "haricot vert",
+    "aliases": []
+  },
+  {
+    "name": "haricot beurre",
+    "normalizedName": "haricot beurre",
+    "aliases": []
+  },
+  {
+    "name": "maïs doux",
+    "normalizedName": "maïs doux",
+    "aliases": []
+  },
+  {
+    "name": "champignon de Paris",
+    "normalizedName": "champignon de paris",
+    "aliases": []
+  },
+  {
+    "name": "pleurote",
+    "normalizedName": "pleurote",
+    "aliases": []
+  },
+  {
+    "name": "shiitake",
+    "normalizedName": "shiitake",
+    "aliases": []
+  },
+  {
+    "name": "cèpe",
+    "normalizedName": "cèpe",
+    "aliases": []
+  },
+  {
+    "name": "girolle",
+    "normalizedName": "girolle",
+    "aliases": []
+  },
+  {
+    "name": "morille",
+    "normalizedName": "morille",
+    "aliases": []
+  },
+  {
+    "name": "truffe noire",
+    "normalizedName": "truffe noire",
+    "aliases": []
+  },
+  {
+    "name": "truffe blanche",
+    "normalizedName": "truffe blanche",
+    "aliases": []
+  },
+  {
+    "name": "basilic",
+    "normalizedName": "basilic",
+    "aliases": []
+  },
+  {
+    "name": "persil plat",
+    "normalizedName": "persil plat",
+    "aliases": []
+  },
+  {
+    "name": "persil frisé",
+    "normalizedName": "persil frisé",
+    "aliases": []
+  },
+  {
+    "name": "coriandre fraîche",
+    "normalizedName": "coriandre fraîche",
+    "aliases": []
+  },
+  {
+    "name": "menthe fraîche",
+    "normalizedName": "menthe fraîche",
+    "aliases": []
+  },
+  {
+    "name": "aneth frais",
+    "normalizedName": "aneth frais",
+    "aliases": []
+  },
+  {
+    "name": "ciboulette fraîche",
+    "normalizedName": "ciboulette fraîche",
+    "aliases": []
+  },
+  {
+    "name": "thym frais",
+    "normalizedName": "thym frais",
+    "aliases": []
+  },
+  {
+    "name": "romarin frais",
+    "normalizedName": "romarin frais",
+    "aliases": []
+  },
+  {
+    "name": "sauge fraîche",
+    "normalizedName": "sauge fraîche",
+    "aliases": []
+  },
+  {
+    "name": "estragon frais",
+    "normalizedName": "estragon frais",
+    "aliases": []
+  },
+  {
+    "name": "laurier frais",
+    "normalizedName": "laurier frais",
+    "aliases": []
+  },
+  {
+    "name": "origan frais",
+    "normalizedName": "origan frais",
+    "aliases": []
+  },
+  {
+    "name": "mélisse",
+    "normalizedName": "mélisse",
+    "aliases": []
+  },
+  {
+    "name": "citronnelle fraîche",
+    "normalizedName": "citronnelle fraîche",
+    "aliases": []
+  },
+  {
+    "name": "gingembre frais",
+    "normalizedName": "gingembre frais",
+    "aliases": []
+  },
+  {
+    "name": "curcuma frais",
+    "normalizedName": "curcuma frais",
+    "aliases": []
+  },
+  {
+    "name": "aubergine",
+    "normalizedName": "aubergine",
+    "aliases": []
+  },
+  {
+    "name": "avocat",
+    "normalizedName": "avocat",
+    "aliases": []
+  },
+  {
+    "name": "concombre noa",
+    "normalizedName": "concombre noa",
+    "aliases": []
+  },
+  {
+    "name": "tomate",
+    "normalizedName": "tomate",
+    "aliases": []
+  },
+  {
+    "name": "tomate cerise",
+    "normalizedName": "tomate cerise",
+    "aliases": []
+  },
+  {
+    "name": "tomate cœur de bœuf",
+    "normalizedName": "tomate cœur de bœuf",
+    "aliases": []
+  },
+  {
+    "name": "tomate séchée",
+    "normalizedName": "tomate séchée",
+    "aliases": []
+  },
+  {
+    "name": "olive verte",
+    "normalizedName": "olive verte",
+    "aliases": []
+  },
+  {
+    "name": "olive noire",
+    "normalizedName": "olive noire",
+    "aliases": []
+  },
+  {
+    "name": "poivron piquillo",
+    "normalizedName": "poivron piquillo",
+    "aliases": []
+  },
+  {
+    "name": "châtaigne d'eau",
+    "normalizedName": "châtaigne d'eau",
+    "aliases": []
+  },
+  {
+    "name": "pousse de bambou",
+    "normalizedName": "pousse de bambou",
+    "aliases": []
+  },
+  {
+    "name": "pousse de soja",
+    "normalizedName": "pousse de soja",
+    "aliases": [
+      "germe de haricot mungo"
+    ]
+  },
+  {
+    "name": "algue wakamé",
+    "normalizedName": "algue wakamé",
+    "aliases": []
+  },
+  {
+    "name": "algue nori",
+    "normalizedName": "algue nori",
+    "aliases": []
+  },
+  {
+    "name": "algue kombu",
+    "normalizedName": "algue kombu",
+    "aliases": []
+  },
+  {
+    "name": "tomme de Savoie",
+    "normalizedName": "tomme de savoie",
+    "aliases": []
+  },
+  {
+    "name": "pomme",
+    "normalizedName": "pomme",
+    "aliases": []
+  },
+  {
+    "name": "poire",
+    "normalizedName": "poire",
+    "aliases": []
+  },
+  {
+    "name": "coing",
+    "normalizedName": "coing",
+    "aliases": []
+  },
+  {
+    "name": "pêche",
+    "normalizedName": "pêche",
+    "aliases": []
+  },
+  {
+    "name": "nectarine",
+    "normalizedName": "nectarine",
+    "aliases": []
+  },
+  {
+    "name": "abricot",
+    "normalizedName": "abricot",
+    "aliases": []
+  },
+  {
+    "name": "prune",
+    "normalizedName": "prune",
+    "aliases": []
+  },
+  {
+    "name": "mirabelle",
+    "normalizedName": "mirabelle",
+    "aliases": []
+  },
+  {
+    "name": "quetsches",
+    "normalizedName": "quetsches",
+    "aliases": []
+  },
+  {
+    "name": "cerise",
+    "normalizedName": "cerise",
+    "aliases": []
+  },
+  {
+    "name": "griotte",
+    "normalizedName": "griotte",
+    "aliases": []
+  },
+  {
+    "name": "fraise",
+    "normalizedName": "fraise",
+    "aliases": []
+  },
+  {
+    "name": "framboise",
+    "normalizedName": "framboise",
+    "aliases": []
+  },
+  {
+    "name": "mûre",
+    "normalizedName": "mûre",
+    "aliases": []
+  },
+  {
+    "name": "myrtille",
+    "normalizedName": "myrtille",
+    "aliases": []
+  },
+  {
+    "name": "cassis",
+    "normalizedName": "cassis",
+    "aliases": []
+  },
+  {
+    "name": "groseille",
+    "normalizedName": "groseille",
+    "aliases": []
+  },
+  {
+    "name": "raisin blanc",
+    "normalizedName": "raisin blanc",
+    "aliases": []
+  },
+  {
+    "name": "raisin noir",
+    "normalizedName": "raisin noir",
+    "aliases": []
+  },
+  {
+    "name": "figue",
+    "normalizedName": "figue",
+    "aliases": []
+  },
+  {
+    "name": "figue sèche",
+    "normalizedName": "figue sèche",
+    "aliases": []
+  },
+  {
+    "name": "datte",
+    "normalizedName": "datte",
+    "aliases": []
+  },
+  {
+    "name": "datte medjool",
+    "normalizedName": "datte medjool",
+    "aliases": []
+  },
+  {
+    "name": "banane",
+    "normalizedName": "banane",
+    "aliases": []
+  },
+  {
+    "name": "banane plantain",
+    "normalizedName": "banane plantain",
+    "aliases": []
+  },
+  {
+    "name": "orange",
+    "normalizedName": "orange",
+    "aliases": []
+  },
+  {
+    "name": "orange sanguine",
+    "normalizedName": "orange sanguine",
+    "aliases": []
+  },
+  {
+    "name": "mandarine",
+    "normalizedName": "mandarine",
+    "aliases": []
+  },
+  {
+    "name": "clémentine",
+    "normalizedName": "clémentine",
+    "aliases": []
+  },
+  {
+    "name": "citron",
+    "normalizedName": "citron",
+    "aliases": []
+  },
+  {
+    "name": "citron vert",
+    "normalizedName": "citron vert",
+    "aliases": []
+  },
+  {
+    "name": "pamplemousse",
+    "normalizedName": "pamplemousse",
+    "aliases": []
+  },
+  {
+    "name": "pomelo",
+    "normalizedName": "pomelo",
+    "aliases": []
+  },
+  {
+    "name": "cédrat",
+    "normalizedName": "cédrat",
+    "aliases": []
+  },
+  {
+    "name": "kumquat",
+    "normalizedName": "kumquat",
+    "aliases": []
+  },
+  {
+    "name": "ananas",
+    "normalizedName": "ananas",
+    "aliases": []
+  },
+  {
+    "name": "mangue",
+    "normalizedName": "mangue",
+    "aliases": []
+  },
+  {
+    "name": "papaye",
+    "normalizedName": "papaye",
+    "aliases": []
+  },
+  {
+    "name": "fruit de la passion",
+    "normalizedName": "fruit de la passion",
+    "aliases": []
+  },
+  {
+    "name": "kiwi",
+    "normalizedName": "kiwi",
+    "aliases": []
+  },
+  {
+    "name": "litchi",
+    "normalizedName": "litchi",
+    "aliases": []
+  },
+  {
+    "name": "ramboutan",
+    "normalizedName": "ramboutan",
+    "aliases": []
+  },
+  {
+    "name": "longane",
+    "normalizedName": "longane",
+    "aliases": []
+  },
+  {
+    "name": "fruit du dragon",
+    "normalizedName": "fruit du dragon",
+    "aliases": []
+  },
+  {
+    "name": "noix de coco",
+    "normalizedName": "noix de coco",
+    "aliases": []
+  },
+  {
+    "name": "noix de coco râpée",
+    "normalizedName": "noix de coco râpée",
+    "aliases": []
+  },
+  {
+    "name": "melon",
+    "normalizedName": "melon",
+    "aliases": []
+  },
+  {
+    "name": "pastèque",
+    "normalizedName": "pastèque",
+    "aliases": []
+  },
+  {
+    "name": "kaki",
+    "normalizedName": "kaki",
+    "aliases": []
+  },
+  {
+    "name": "grenade",
+    "normalizedName": "grenade",
+    "aliases": []
+  },
+  {
+    "name": "rhubarbe",
+    "normalizedName": "rhubarbe",
+    "aliases": []
+  },
+  {
+    "name": "cranberry",
+    "normalizedName": "cranberry",
+    "aliases": [
+      "canneberge"
+    ]
+  },
+  {
+    "name": "cranberry séchée",
+    "normalizedName": "cranberry séchée",
+    "aliases": []
+  },
+  {
+    "name": "pruneau",
+    "normalizedName": "pruneau",
+    "aliases": []
+  },
+  {
+    "name": "raisin sec",
+    "normalizedName": "raisin sec",
+    "aliases": []
+  },
+  {
+    "name": "abricot sec",
+    "normalizedName": "abricot sec",
+    "aliases": []
+  },
+  {
+    "name": "pomme séchée",
+    "normalizedName": "pomme séchée",
+    "aliases": []
+  },
+  {
+    "name": "poire séchée",
+    "normalizedName": "poire séchée",
+    "aliases": []
+  },
+  {
+    "name": "orange confite",
+    "normalizedName": "orange confite",
+    "aliases": []
+  },
+  {
+    "name": "citron confit",
+    "normalizedName": "citron confit",
+    "aliases": []
+  },
+  {
+    "name": "aiguillette de poulet",
+    "normalizedName": "aiguillette de poulet",
+    "aliases": []
+  },
+  {
+    "name": "blanc de poulet",
+    "normalizedName": "blanc de poulet",
+    "aliases": []
+  },
+  {
+    "name": "cuisse de poulet",
+    "normalizedName": "cuisse de poulet",
+    "aliases": []
+  },
+  {
+    "name": "haut de cuisse de poulet",
+    "normalizedName": "haut de cuisse de poulet",
+    "aliases": []
+  },
+  {
+    "name": "poulet entier",
+    "normalizedName": "poulet entier",
+    "aliases": []
+  },
+  {
+    "name": "ailerons de poulet",
+    "normalizedName": "ailerons de poulet",
+    "aliases": []
+  },
+  {
+    "name": "escalope de dinde",
+    "normalizedName": "escalope de dinde",
+    "aliases": []
+  },
+  {
+    "name": "blanc de dinde",
+    "normalizedName": "blanc de dinde",
+    "aliases": []
+  },
+  {
+    "name": "cuisse de dinde",
+    "normalizedName": "cuisse de dinde",
+    "aliases": []
+  },
+  {
+    "name": "canard entier",
+    "normalizedName": "canard entier",
+    "aliases": []
+  },
+  {
+    "name": "magret de canard",
+    "normalizedName": "magret de canard",
+    "aliases": []
+  },
+  {
+    "name": "confit de canard",
+    "normalizedName": "confit de canard",
+    "aliases": []
+  },
+  {
+    "name": "foie gras de canard",
+    "normalizedName": "foie gras de canard",
+    "aliases": []
+  },
+  {
+    "name": "pintade",
+    "normalizedName": "pintade",
+    "aliases": []
+  },
+  {
+    "name": "caille",
+    "normalizedName": "caille",
+    "aliases": []
+  },
+  {
+    "name": "lapin",
+    "normalizedName": "lapin",
+    "aliases": []
+  },
+  {
+    "name": "filet mignon de porc",
+    "normalizedName": "filet mignon de porc",
+    "aliases": []
+  },
+  {
+    "name": "échine de porc",
+    "normalizedName": "échine de porc",
+    "aliases": []
+  },
+  {
+    "name": "rôti de porc",
+    "normalizedName": "rôti de porc",
+    "aliases": []
+  },
+  {
+    "name": "épaule de porc",
+    "normalizedName": "épaule de porc",
+    "aliases": []
+  },
+  {
+    "name": "poitrine de porc",
+    "normalizedName": "poitrine de porc",
+    "aliases": []
+  },
+  {
+    "name": "lardons fumés",
+    "normalizedName": "lardons fumés",
+    "aliases": []
+  },
+  {
+    "name": "lardons nature",
+    "normalizedName": "lardons nature",
+    "aliases": []
+  },
+  {
+    "name": "jambon blanc",
+    "normalizedName": "jambon blanc",
+    "aliases": []
+  },
+  {
+    "name": "jambon cru",
+    "normalizedName": "jambon cru",
+    "aliases": []
+  },
+  {
+    "name": "jambon de Parme",
+    "normalizedName": "jambon de parme",
+    "aliases": []
+  },
+  {
+    "name": "pancetta",
+    "normalizedName": "pancetta",
+    "aliases": []
+  },
+  {
+    "name": "chorizo",
+    "normalizedName": "chorizo",
+    "aliases": []
+  },
+  {
+    "name": "saucisse de Toulouse",
+    "normalizedName": "saucisse de toulouse",
+    "aliases": []
+  },
+  {
+    "name": "saucisse fumée",
+    "normalizedName": "saucisse fumée",
+    "aliases": []
+  },
+  {
+    "name": "merguez",
+    "normalizedName": "merguez",
+    "aliases": []
+  },
+  {
+    "name": "boudin noir",
+    "normalizedName": "boudin noir",
+    "aliases": []
+  },
+  {
+    "name": "boudin blanc",
+    "normalizedName": "boudin blanc",
+    "aliases": []
+  },
+  {
+    "name": "andouillette",
+    "normalizedName": "andouillette",
+    "aliases": []
+  },
+  {
+    "name": "bacon",
+    "normalizedName": "bacon",
+    "aliases": []
+  },
+  {
+    "name": "côte de porc",
+    "normalizedName": "côte de porc",
+    "aliases": []
+  },
+  {
+    "name": "côte de veau",
+    "normalizedName": "côte de veau",
+    "aliases": []
+  },
+  {
+    "name": "escalope de veau",
+    "normalizedName": "escalope de veau",
+    "aliases": []
+  },
+  {
+    "name": "quasi de veau",
+    "normalizedName": "quasi de veau",
+    "aliases": []
+  },
+  {
+    "name": "jarret de veau",
+    "normalizedName": "jarret de veau",
+    "aliases": []
+  },
+  {
+    "name": "steak de bœuf",
+    "normalizedName": "steak de bœuf",
+    "aliases": []
+  },
+  {
+    "name": "bavette de bœuf",
+    "normalizedName": "bavette de bœuf",
+    "aliases": []
+  },
+  {
+    "name": "entrecôte de bœuf",
+    "normalizedName": "entrecôte de bœuf",
+    "aliases": []
+  },
+  {
+    "name": "filet de bœuf",
+    "normalizedName": "filet de bœuf",
+    "aliases": []
+  },
+  {
+    "name": "rumsteck",
+    "normalizedName": "rumsteck",
+    "aliases": []
+  },
+  {
+    "name": "faux-filet",
+    "normalizedName": "faux-filet",
+    "aliases": []
+  },
+  {
+    "name": "paleron de bœuf",
+    "normalizedName": "paleron de bœuf",
+    "aliases": []
+  },
+  {
+    "name": "joue de bœuf",
+    "normalizedName": "joue de bœuf",
+    "aliases": []
+  },
+  {
+    "name": "bœuf haché",
+    "normalizedName": "bœuf haché",
+    "aliases": []
+  },
+  {
+    "name": "viande de bœuf à bourguignon",
+    "normalizedName": "viande de bœuf à bourguignon",
+    "aliases": []
+  },
+  {
+    "name": "agneau haché",
+    "normalizedName": "agneau haché",
+    "aliases": []
+  },
+  {
+    "name": "gigot d'agneau",
+    "normalizedName": "gigot d'agneau",
+    "aliases": []
+  },
+  {
+    "name": "épaule d'agneau",
+    "normalizedName": "épaule d'agneau",
+    "aliases": []
+  },
+  {
+    "name": "côtelette d'agneau",
+    "normalizedName": "côtelette d'agneau",
+    "aliases": []
+  },
+  {
+    "name": "souris d'agneau",
+    "normalizedName": "souris d'agneau",
+    "aliases": []
+  },
+  {
+    "name": "merlan d'agneau",
+    "normalizedName": "merlan d'agneau",
+    "aliases": []
+  },
+  {
+    "name": "aiglefin",
+    "normalizedName": "aiglefin",
+    "aliases": []
+  },
+  {
+    "name": "anchois frais",
+    "normalizedName": "anchois frais",
+    "aliases": []
+  },
+  {
+    "name": "anchois à l'huile",
+    "normalizedName": "anchois à l'huile",
+    "aliases": []
+  },
+  {
+    "name": "bar",
+    "normalizedName": "bar",
+    "aliases": []
+  },
+  {
+    "name": "barbue",
+    "normalizedName": "barbue",
+    "aliases": []
+  },
+  {
+    "name": "cabillaud",
+    "normalizedName": "cabillaud",
+    "aliases": [
+      "morue fraîche"
+    ]
+  },
+  {
+    "name": "colin",
+    "normalizedName": "colin",
+    "aliases": []
+  },
+  {
+    "name": "lieu jaune",
+    "normalizedName": "lieu jaune",
+    "aliases": []
+  },
+  {
+    "name": "lieu noir",
+    "normalizedName": "lieu noir",
+    "aliases": []
+  },
+  {
+    "name": "merlan",
+    "normalizedName": "merlan",
+    "aliases": []
+  },
+  {
+    "name": "merlu",
+    "normalizedName": "merlu",
+    "aliases": []
+  },
+  {
+    "name": "lotte",
+    "normalizedName": "lotte",
+    "aliases": [
+      "baudroie"
+    ]
+  },
+  {
+    "name": "maigre",
+    "normalizedName": "maigre",
+    "aliases": []
+  },
+  {
+    "name": "rouget",
+    "normalizedName": "rouget",
+    "aliases": []
+  },
+  {
+    "name": "sole",
+    "normalizedName": "sole",
+    "aliases": []
+  },
+  {
+    "name": "thon frais",
+    "normalizedName": "thon frais",
+    "aliases": []
+  },
+  {
+    "name": "thon en boîte",
+    "normalizedName": "thon en boîte",
+    "aliases": []
+  },
+  {
+    "name": "sardine fraîche",
+    "normalizedName": "sardine fraîche",
+    "aliases": []
+  },
+  {
+    "name": "sardine en boîte",
+    "normalizedName": "sardine en boîte",
+    "aliases": []
+  },
+  {
+    "name": "maquereau frais",
+    "normalizedName": "maquereau frais",
+    "aliases": []
+  },
+  {
+    "name": "maquereau en boîte",
+    "normalizedName": "maquereau en boîte",
+    "aliases": []
+  },
+  {
+    "name": "saumon frais",
+    "normalizedName": "saumon frais",
+    "aliases": []
+  },
+  {
+    "name": "saumon fumé",
+    "normalizedName": "saumon fumé",
+    "aliases": []
+  },
+  {
+    "name": "truite",
+    "normalizedName": "truite",
+    "aliases": []
+  },
+  {
+    "name": "truite fumée",
+    "normalizedName": "truite fumée",
+    "aliases": []
+  },
+  {
+    "name": "dorade",
+    "normalizedName": "dorade",
+    "aliases": [
+      "daurade"
+    ]
+  },
+  {
+    "name": "flétan",
+    "normalizedName": "flétan",
+    "aliases": []
+  },
+  {
+    "name": "haddock",
+    "normalizedName": "haddock",
+    "aliases": []
+  },
+  {
+    "name": "hareng",
+    "normalizedName": "hareng",
+    "aliases": []
+  },
+  {
+    "name": "raie",
+    "normalizedName": "raie",
+    "aliases": []
+  },
+  {
+    "name": "espadon",
+    "normalizedName": "espadon",
+    "aliases": []
+  },
+  {
+    "name": "crevette rose",
+    "normalizedName": "crevette rose",
+    "aliases": []
+  },
+  {
+    "name": "crevette grise",
+    "normalizedName": "crevette grise",
+    "aliases": []
+  },
+  {
+    "name": "crevette tigrée",
+    "normalizedName": "crevette tigrée",
+    "aliases": []
+  },
+  {
+    "name": "langoustine",
+    "normalizedName": "langoustine",
+    "aliases": []
+  },
+  {
+    "name": "homard",
+    "normalizedName": "homard",
+    "aliases": []
+  },
+  {
+    "name": "langouste",
+    "normalizedName": "langouste",
+    "aliases": []
+  },
+  {
+    "name": "crabe",
+    "normalizedName": "crabe",
+    "aliases": []
+  },
+  {
+    "name": "tourteau",
+    "normalizedName": "tourteau",
+    "aliases": []
+  },
+  {
+    "name": "araignée de mer",
+    "normalizedName": "araignée de mer",
+    "aliases": []
+  },
+  {
+    "name": "moule",
+    "normalizedName": "moule",
+    "aliases": []
+  },
+  {
+    "name": "palourde",
+    "normalizedName": "palourde",
+    "aliases": []
+  },
+  {
+    "name": "coque",
+    "normalizedName": "coque",
+    "aliases": []
+  },
+  {
+    "name": "praire",
+    "normalizedName": "praire",
+    "aliases": []
+  },
+  {
+    "name": "huître",
+    "normalizedName": "huître",
+    "aliases": []
+  },
+  {
+    "name": "Saint-Jacques",
+    "normalizedName": "saint-jacques",
+    "aliases": [
+      "noix de Saint-Jacques"
+    ]
+  },
+  {
+    "name": "pétoncle",
+    "normalizedName": "pétoncle",
+    "aliases": []
+  },
+  {
+    "name": "calamar",
+    "normalizedName": "calamar",
+    "aliases": [
+      "calmar"
+    ]
+  },
+  {
+    "name": "seiche",
+    "normalizedName": "seiche",
+    "aliases": []
+  },
+  {
+    "name": "poulpe",
+    "normalizedName": "poulpe",
+    "aliases": []
+  },
+  {
+    "name": "encornet",
+    "normalizedName": "encornet",
+    "aliases": []
+  },
+  {
+    "name": "œufs de lump",
+    "normalizedName": "œufs de lump",
+    "aliases": []
+  },
+  {
+    "name": "œufs de saumon",
+    "normalizedName": "œufs de saumon",
+    "aliases": []
+  },
+  {
+    "name": "oeuf de poule",
+    "normalizedName": "oeuf de poule",
+    "aliases": [
+      "œuf"
+    ]
+  },
+  {
+    "name": "blanc d'œuf",
+    "normalizedName": "blanc d'œuf",
+    "aliases": []
+  },
+  {
+    "name": "jaune d'œuf",
+    "normalizedName": "jaune d'œuf",
+    "aliases": []
+  },
+  {
+    "name": "lait entier",
+    "normalizedName": "lait entier",
+    "aliases": []
+  },
+  {
+    "name": "lait demi-écrémé",
+    "normalizedName": "lait demi-écrémé",
+    "aliases": []
+  },
+  {
+    "name": "lait écrémé",
+    "normalizedName": "lait écrémé",
+    "aliases": []
+  },
+  {
+    "name": "lait sans lactose",
+    "normalizedName": "lait sans lactose",
+    "aliases": []
+  },
+  {
+    "name": "lait de chèvre",
+    "normalizedName": "lait de chèvre",
+    "aliases": []
+  },
+  {
+    "name": "lait de brebis",
+    "normalizedName": "lait de brebis",
+    "aliases": []
+  },
+  {
+    "name": "crème fraîche épaisse",
+    "normalizedName": "crème fraîche épaisse",
+    "aliases": []
+  },
+  {
+    "name": "crème fraîche liquide",
+    "normalizedName": "crème fraîche liquide",
+    "aliases": []
+  },
+  {
+    "name": "crème fleurette",
+    "normalizedName": "crème fleurette",
+    "aliases": []
+  },
+  {
+    "name": "crème entière",
+    "normalizedName": "crème entière",
+    "aliases": []
+  },
+  {
+    "name": "crème légère",
+    "normalizedName": "crème légère",
+    "aliases": []
+  },
+  {
+    "name": "crème aigre",
+    "normalizedName": "crème aigre",
+    "aliases": [
+      "sour cream"
+    ]
+  },
+  {
+    "name": "beurre doux",
+    "normalizedName": "beurre doux",
+    "aliases": []
+  },
+  {
+    "name": "beurre demi-sel",
+    "normalizedName": "beurre demi-sel",
+    "aliases": []
+  },
+  {
+    "name": "beurre salé",
+    "normalizedName": "beurre salé",
+    "aliases": []
+  },
+  {
+    "name": "beurre clarifié",
+    "normalizedName": "beurre clarifié",
+    "aliases": [
+      "ghee"
+    ]
+  },
+  {
+    "name": "yaourt nature",
+    "normalizedName": "yaourt nature",
+    "aliases": []
+  },
+  {
+    "name": "yogourt grec",
+    "normalizedName": "yogourt grec",
+    "aliases": []
+  },
+  {
+    "name": "fromage blanc",
+    "normalizedName": "fromage blanc",
+    "aliases": []
+  },
+  {
+    "name": "faisselle",
+    "normalizedName": "faisselle",
+    "aliases": []
+  },
+  {
+    "name": "petit-suisse",
+    "normalizedName": "petit-suisse",
+    "aliases": []
+  },
+  {
+    "name": "skyr",
+    "normalizedName": "skyr",
+    "aliases": []
+  },
+  {
+    "name": "mascarpone",
+    "normalizedName": "mascarpone",
+    "aliases": []
+  },
+  {
+    "name": "ricotta",
+    "normalizedName": "ricotta",
+    "aliases": []
+  },
+  {
+    "name": "mozzarella",
+    "normalizedName": "mozzarella",
+    "aliases": []
+  },
+  {
+    "name": "mozzarella di bufala",
+    "normalizedName": "mozzarella di bufala",
+    "aliases": []
+  },
+  {
+    "name": "burrata",
+    "normalizedName": "burrata",
+    "aliases": []
+  },
+  {
+    "name": "parmesan",
+    "normalizedName": "parmesan",
+    "aliases": []
+  },
+  {
+    "name": "pecorino",
+    "normalizedName": "pecorino",
+    "aliases": []
+  },
+  {
+    "name": "comté",
+    "normalizedName": "comté",
+    "aliases": []
+  },
+  {
+    "name": "emmental",
+    "normalizedName": "emmental",
+    "aliases": []
+  },
+  {
+    "name": "gruyère",
+    "normalizedName": "gruyère",
+    "aliases": []
+  },
+  {
+    "name": "beaufort",
+    "normalizedName": "beaufort",
+    "aliases": []
+  },
+  {
+    "name": "cheddar",
+    "normalizedName": "cheddar",
+    "aliases": []
+  },
+  {
+    "name": "gouda",
+    "normalizedName": "gouda",
+    "aliases": []
+  },
+  {
+    "name": "reblochon",
+    "normalizedName": "reblochon",
+    "aliases": []
+  },
+  {
+    "name": "raclette",
+    "normalizedName": "raclette",
+    "aliases": []
+  },
+  {
+    "name": "camembert",
+    "normalizedName": "camembert",
+    "aliases": []
+  },
+  {
+    "name": "brie",
+    "normalizedName": "brie",
+    "aliases": []
+  },
+  {
+    "name": "roquefort",
+    "normalizedName": "roquefort",
+    "aliases": []
+  },
+  {
+    "name": "chèvre frais",
+    "normalizedName": "chèvre frais",
+    "aliases": []
+  },
+  {
+    "name": "bûche de chèvre",
+    "normalizedName": "bûche de chèvre",
+    "aliases": []
+  },
+  {
+    "name": "feta",
+    "normalizedName": "feta",
+    "aliases": []
+  },
+  {
+    "name": "bleu d'Auvergne",
+    "normalizedName": "bleu d'auvergne",
+    "aliases": []
+  },
+  {
+    "name": "munster",
+    "normalizedName": "munster",
+    "aliases": []
+  },
+  {
+    "name": "cantal",
+    "normalizedName": "cantal",
+    "aliases": []
+  },
+  {
+    "name": "mimolette",
+    "normalizedName": "mimolette",
+    "aliases": []
+  },
+  {
+    "name": "fromage à raclette",
+    "normalizedName": "fromage à raclette",
+    "aliases": []
+  },
+  {
+    "name": "lait concentré sucré",
+    "normalizedName": "lait concentré sucré",
+    "aliases": []
+  },
+  {
+    "name": "lait concentré non sucré",
+    "normalizedName": "lait concentré non sucré",
+    "aliases": []
+  },
+  {
+    "name": "lait en poudre",
+    "normalizedName": "lait en poudre",
+    "aliases": []
+  },
+  {
+    "name": "eau",
+    "normalizedName": "eau",
+    "aliases": []
+  },
+  {
+    "name": "farine de blé T45",
+    "normalizedName": "farine de blé t45",
+    "aliases": []
+  },
+  {
+    "name": "farine de blé T55",
+    "normalizedName": "farine de blé t55",
+    "aliases": []
+  },
+  {
+    "name": "farine de blé T65",
+    "normalizedName": "farine de blé t65",
+    "aliases": []
+  },
+  {
+    "name": "farine complète",
+    "normalizedName": "farine complète",
+    "aliases": []
+  },
+  {
+    "name": "farine de seigle",
+    "normalizedName": "farine de seigle",
+    "aliases": []
+  },
+  {
+    "name": "farine de sarrasin",
+    "normalizedName": "farine de sarrasin",
+    "aliases": [
+      "blé noir"
+    ]
+  },
+  {
+    "name": "farine de maïs",
+    "normalizedName": "farine de maïs",
+    "aliases": []
+  },
+  {
+    "name": "farine de riz",
+    "normalizedName": "farine de riz",
+    "aliases": []
+  },
+  {
+    "name": "farine de châtaigne",
+    "normalizedName": "farine de châtaigne",
+    "aliases": []
+  },
+  {
+    "name": "farine de pois chiche",
+    "normalizedName": "farine de pois chiche",
+    "aliases": []
+  },
+  {
+    "name": "farine d'épeautre",
+    "normalizedName": "farine d'épeautre",
+    "aliases": []
+  },
+  {
+    "name": "farine de petit épeautre",
+    "normalizedName": "farine de petit épeautre",
+    "aliases": []
+  },
+  {
+    "name": "farine de coco",
+    "normalizedName": "farine de coco",
+    "aliases": []
+  },
+  {
+    "name": "fécule de maïs",
+    "normalizedName": "fécule de maïs",
+    "aliases": [
+      "maïzena"
+    ]
+  },
+  {
+    "name": "fécule de pomme de terre",
+    "normalizedName": "fécule de pomme de terre",
+    "aliases": []
+  },
+  {
+    "name": "semoule de blé fine",
+    "normalizedName": "semoule de blé fine",
+    "aliases": []
+  },
+  {
+    "name": "semoule de blé moyenne",
+    "normalizedName": "semoule de blé moyenne",
+    "aliases": []
+  },
+  {
+    "name": "semoule de maïs",
+    "normalizedName": "semoule de maïs",
+    "aliases": [
+      "polenta"
+    ]
+  },
+  {
+    "name": "chapelure",
+    "normalizedName": "chapelure",
+    "aliases": []
+  },
+  {
+    "name": "panko",
+    "normalizedName": "panko",
+    "aliases": []
+  },
+  {
+    "name": "levure boulangère fraîche",
+    "normalizedName": "levure boulangère fraîche",
+    "aliases": []
+  },
+  {
+    "name": "levure boulangère sèche",
+    "normalizedName": "levure boulangère sèche",
+    "aliases": []
+  },
+  {
+    "name": "levure chimique",
+    "normalizedName": "levure chimique",
+    "aliases": []
+  },
+  {
+    "name": "bicarbonate de soude",
+    "normalizedName": "bicarbonate de soude",
+    "aliases": []
+  },
+  {
+    "name": "levain",
+    "normalizedName": "levain",
+    "aliases": []
+  },
+  {
+    "name": "pâte feuilletée",
+    "normalizedName": "pâte feuilletée",
+    "aliases": []
+  },
+  {
+    "name": "pâte brisée",
+    "normalizedName": "pâte brisée",
+    "aliases": []
+  },
+  {
+    "name": "pâte sablée",
+    "normalizedName": "pâte sablée",
+    "aliases": []
+  },
+  {
+    "name": "pâte filo",
+    "normalizedName": "pâte filo",
+    "aliases": []
+  },
+  {
+    "name": "pâte à pizza",
+    "normalizedName": "pâte à pizza",
+    "aliases": []
+  },
+  {
+    "name": "pain de mie",
+    "normalizedName": "pain de mie",
+    "aliases": []
+  },
+  {
+    "name": "pain rassis",
+    "normalizedName": "pain rassis",
+    "aliases": []
+  },
+  {
+    "name": "baguette",
+    "normalizedName": "baguette",
+    "aliases": []
+  },
+  {
+    "name": "brioche",
+    "normalizedName": "brioche",
+    "aliases": []
+  },
+  {
+    "name": "flocons d'avoine",
+    "normalizedName": "flocons d'avoine",
+    "aliases": []
+  },
+  {
+    "name": "avoine",
+    "normalizedName": "avoine",
+    "aliases": []
+  },
+  {
+    "name": "riz basmati",
+    "normalizedName": "riz basmati",
+    "aliases": []
+  },
+  {
+    "name": "riz thaï",
+    "normalizedName": "riz thaï",
+    "aliases": []
+  },
+  {
+    "name": "riz jasmin",
+    "normalizedName": "riz jasmin",
+    "aliases": []
+  },
+  {
+    "name": "riz rond",
+    "normalizedName": "riz rond",
+    "aliases": []
+  },
+  {
+    "name": "riz arborio",
+    "normalizedName": "riz arborio",
+    "aliases": []
+  },
+  {
+    "name": "riz complet",
+    "normalizedName": "riz complet",
+    "aliases": []
+  },
+  {
+    "name": "riz sauvage",
+    "normalizedName": "riz sauvage",
+    "aliases": []
+  },
+  {
+    "name": "quinoa",
+    "normalizedName": "quinoa",
+    "aliases": []
+  },
+  {
+    "name": "boulgour",
+    "normalizedName": "boulgour",
+    "aliases": []
+  },
+  {
+    "name": "épeautre",
+    "normalizedName": "épeautre",
+    "aliases": []
+  },
+  {
+    "name": "orge perlé",
+    "normalizedName": "orge perlé",
+    "aliases": []
+  },
+  {
+    "name": "sarrasin",
+    "normalizedName": "sarrasin",
+    "aliases": []
+  },
+  {
+    "name": "millet",
+    "normalizedName": "millet",
+    "aliases": []
+  },
+  {
+    "name": "polenta",
+    "normalizedName": "polenta",
+    "aliases": []
+  },
+  {
+    "name": "couscous",
+    "normalizedName": "couscous",
+    "aliases": []
+  },
+  {
+    "name": "pâtes spaghetti",
+    "normalizedName": "pâtes spaghetti",
+    "aliases": []
+  },
+  {
+    "name": "pâtes penne",
+    "normalizedName": "pâtes penne",
+    "aliases": []
+  },
+  {
+    "name": "pâtes fusilli",
+    "normalizedName": "pâtes fusilli",
+    "aliases": []
+  },
+  {
+    "name": "pâtes macaronis",
+    "normalizedName": "pâtes macaronis",
+    "aliases": []
+  },
+  {
+    "name": "pâtes tagliatelles",
+    "normalizedName": "pâtes tagliatelles",
+    "aliases": []
+  },
+  {
+    "name": "pâtes lasagnes",
+    "normalizedName": "pâtes lasagnes",
+    "aliases": []
+  },
+  {
+    "name": "pâtes vermicelles",
+    "normalizedName": "pâtes vermicelles",
+    "aliases": []
+  },
+  {
+    "name": "nouilles de riz",
+    "normalizedName": "nouilles de riz",
+    "aliases": []
+  },
+  {
+    "name": "nouilles soba",
+    "normalizedName": "nouilles soba",
+    "aliases": []
+  },
+  {
+    "name": "nouilles udon",
+    "normalizedName": "nouilles udon",
+    "aliases": []
+  },
+  {
+    "name": "nouilles ramen",
+    "normalizedName": "nouilles ramen",
+    "aliases": []
+  },
+  {
+    "name": "vermicelles de soja",
+    "normalizedName": "vermicelles de soja",
+    "aliases": []
+  },
+  {
+    "name": "haricots blancs",
+    "normalizedName": "haricots blancs",
+    "aliases": [
+      "haricot blanc"
+    ]
+  },
+  {
+    "name": "haricots rouges",
+    "normalizedName": "haricots rouges",
+    "aliases": []
+  },
+  {
+    "name": "haricots noirs",
+    "normalizedName": "haricots noirs",
+    "aliases": []
+  },
+  {
+    "name": "haricots borlotti",
+    "normalizedName": "haricots borlotti",
+    "aliases": []
+  },
+  {
+    "name": "flageolets",
+    "normalizedName": "flageolets",
+    "aliases": []
+  },
+  {
+    "name": "pois chiches",
+    "normalizedName": "pois chiches",
+    "aliases": [
+      "pois chiche"
+    ]
+  },
+  {
+    "name": "pois cassés",
+    "normalizedName": "pois cassés",
+    "aliases": []
+  },
+  {
+    "name": "lentilles vertes",
+    "normalizedName": "lentilles vertes",
+    "aliases": []
+  },
+  {
+    "name": "lentilles blondes",
+    "normalizedName": "lentilles blondes",
+    "aliases": []
+  },
+  {
+    "name": "lentilles corail",
+    "normalizedName": "lentilles corail",
+    "aliases": []
+  },
+  {
+    "name": "lentilles noires",
+    "normalizedName": "lentilles noires",
+    "aliases": []
+  },
+  {
+    "name": "fèves",
+    "normalizedName": "fèves",
+    "aliases": []
+  },
+  {
+    "name": "edamame",
+    "normalizedName": "edamame",
+    "aliases": []
+  },
+  {
+    "name": "soja jaune",
+    "normalizedName": "soja jaune",
+    "aliases": []
+  },
+  {
+    "name": "tofu ferme",
+    "normalizedName": "tofu ferme",
+    "aliases": []
+  },
+  {
+    "name": "tofu soyeux",
+    "normalizedName": "tofu soyeux",
+    "aliases": []
+  },
+  {
+    "name": "tempeh",
+    "normalizedName": "tempeh",
+    "aliases": []
+  },
+  {
+    "name": "seitan",
+    "normalizedName": "seitan",
+    "aliases": []
+  },
+  {
+    "name": "oignon séché",
+    "normalizedName": "oignon séché",
+    "aliases": []
+  },
+  {
+    "name": "noix",
+    "normalizedName": "noix",
+    "aliases": []
+  },
+  {
+    "name": "noix de pécan",
+    "normalizedName": "noix de pécan",
+    "aliases": []
+  },
+  {
+    "name": "noisette",
+    "normalizedName": "noisette",
+    "aliases": []
+  },
+  {
+    "name": "amande entière",
+    "normalizedName": "amande entière",
+    "aliases": []
+  },
+  {
+    "name": "amande effilée",
+    "normalizedName": "amande effilée",
+    "aliases": []
+  },
+  {
+    "name": "amande en poudre",
+    "normalizedName": "amande en poudre",
+    "aliases": []
+  },
+  {
+    "name": "pistache",
+    "normalizedName": "pistache",
+    "aliases": []
+  },
+  {
+    "name": "cacahuète",
+    "normalizedName": "cacahuète",
+    "aliases": [
+      "arachide"
+    ]
+  },
+  {
+    "name": "noix de cajou",
+    "normalizedName": "noix de cajou",
+    "aliases": []
+  },
+  {
+    "name": "noix du Brésil",
+    "normalizedName": "noix du brésil",
+    "aliases": []
+  },
+  {
+    "name": "noix de macadamia",
+    "normalizedName": "noix de macadamia",
+    "aliases": []
+  },
+  {
+    "name": "pignon de pin",
+    "normalizedName": "pignon de pin",
+    "aliases": []
+  },
+  {
+    "name": "graines de sésame",
+    "normalizedName": "graines de sésame",
+    "aliases": []
+  },
+  {
+    "name": "graines de pavot",
+    "normalizedName": "graines de pavot",
+    "aliases": []
+  },
+  {
+    "name": "graines de chia",
+    "normalizedName": "graines de chia",
+    "aliases": []
+  },
+  {
+    "name": "graines de lin",
+    "normalizedName": "graines de lin",
+    "aliases": []
+  },
+  {
+    "name": "graines de courge",
+    "normalizedName": "graines de courge",
+    "aliases": []
+  },
+  {
+    "name": "graines de tournesol",
+    "normalizedName": "graines de tournesol",
+    "aliases": []
+  },
+  {
+    "name": "graines de moutarde",
+    "normalizedName": "graines de moutarde",
+    "aliases": []
+  },
+  {
+    "name": "graines de fenouil",
+    "normalizedName": "graines de fenouil",
+    "aliases": []
+  },
+  {
+    "name": "graines de cumin",
+    "normalizedName": "graines de cumin",
+    "aliases": []
+  },
+  {
+    "name": "graines de coriandre",
+    "normalizedName": "graines de coriandre",
+    "aliases": []
+  },
+  {
+    "name": "graines de nigelle",
+    "normalizedName": "graines de nigelle",
+    "aliases": []
+  },
+  {
+    "name": "tahini",
+    "normalizedName": "tahini",
+    "aliases": [
+      "purée de sésame"
+    ]
+  },
+  {
+    "name": "beurre de cacahuète",
+    "normalizedName": "beurre de cacahuète",
+    "aliases": []
+  },
+  {
+    "name": "huile d'olive",
+    "normalizedName": "huile d'olive",
+    "aliases": []
+  },
+  {
+    "name": "huile d'olive vierge extra",
+    "normalizedName": "huile d'olive vierge extra",
+    "aliases": []
+  },
+  {
+    "name": "huile de tournesol",
+    "normalizedName": "huile de tournesol",
+    "aliases": []
+  },
+  {
+    "name": "huile de colza",
+    "normalizedName": "huile de colza",
+    "aliases": []
+  },
+  {
+    "name": "huile de noix",
+    "normalizedName": "huile de noix",
+    "aliases": []
+  },
+  {
+    "name": "huile de noisette",
+    "normalizedName": "huile de noisette",
+    "aliases": []
+  },
+  {
+    "name": "huile de sésame",
+    "normalizedName": "huile de sésame",
+    "aliases": []
+  },
+  {
+    "name": "huile de coco",
+    "normalizedName": "huile de coco",
+    "aliases": []
+  },
+  {
+    "name": "huile d'arachide",
+    "normalizedName": "huile d'arachide",
+    "aliases": []
+  },
+  {
+    "name": "huile de pépins de raisin",
+    "normalizedName": "huile de pépins de raisin",
+    "aliases": []
+  },
+  {
+    "name": "huile de lin",
+    "normalizedName": "huile de lin",
+    "aliases": []
+  },
+  {
+    "name": "huile de truffe",
+    "normalizedName": "huile de truffe",
+    "aliases": []
+  },
+  {
+    "name": "vinaigre de vin rouge",
+    "normalizedName": "vinaigre de vin rouge",
+    "aliases": []
+  },
+  {
+    "name": "vinaigre de vin blanc",
+    "normalizedName": "vinaigre de vin blanc",
+    "aliases": []
+  },
+  {
+    "name": "vinaigre de cidre",
+    "normalizedName": "vinaigre de cidre",
+    "aliases": []
+  },
+  {
+    "name": "vinaigre balsamique",
+    "normalizedName": "vinaigre balsamique",
+    "aliases": []
+  },
+  {
+    "name": "vinaigre de riz",
+    "normalizedName": "vinaigre de riz",
+    "aliases": []
+  },
+  {
+    "name": "vinaigre de Xérès",
+    "normalizedName": "vinaigre de xérès",
+    "aliases": []
+  },
+  {
+    "name": "vinaigre blanc",
+    "normalizedName": "vinaigre blanc",
+    "aliases": []
+  },
+  {
+    "name": "moutarde de Dijon",
+    "normalizedName": "moutarde de dijon",
+    "aliases": []
+  },
+  {
+    "name": "moutarde à l'ancienne",
+    "normalizedName": "moutarde à l'ancienne",
+    "aliases": []
+  },
+  {
+    "name": "moutarde douce",
+    "normalizedName": "moutarde douce",
+    "aliases": []
+  },
+  {
+    "name": "mayonnaise",
+    "normalizedName": "mayonnaise",
+    "aliases": []
+  },
+  {
+    "name": "ketchup",
+    "normalizedName": "ketchup",
+    "aliases": []
+  },
+  {
+    "name": "concentré de tomate",
+    "normalizedName": "concentré de tomate",
+    "aliases": []
+  },
+  {
+    "name": "sauce tomate",
+    "normalizedName": "sauce tomate",
+    "aliases": []
+  },
+  {
+    "name": "sauce soja",
+    "normalizedName": "sauce soja",
+    "aliases": []
+  },
+  {
+    "name": "sauce tamari",
+    "normalizedName": "sauce tamari",
+    "aliases": []
+  },
+  {
+    "name": "sauce Worcestershire",
+    "normalizedName": "sauce worcestershire",
+    "aliases": []
+  },
+  {
+    "name": "sauce nuoc-mâm",
+    "normalizedName": "sauce nuoc-mâm",
+    "aliases": []
+  },
+  {
+    "name": "sauce huître",
+    "normalizedName": "sauce huître",
+    "aliases": []
+  },
+  {
+    "name": "sauce hoisin",
+    "normalizedName": "sauce hoisin",
+    "aliases": []
+  },
+  {
+    "name": "sauce sriracha",
+    "normalizedName": "sauce sriracha",
+    "aliases": []
+  },
+  {
+    "name": "pâte miso blanche",
+    "normalizedName": "pâte miso blanche",
+    "aliases": []
+  },
+  {
+    "name": "pâte miso rouge",
+    "normalizedName": "pâte miso rouge",
+    "aliases": []
+  },
+  {
+    "name": "pâte de curry rouge",
+    "normalizedName": "pâte de curry rouge",
+    "aliases": []
+  },
+  {
+    "name": "pâte de curry vert",
+    "normalizedName": "pâte de curry vert",
+    "aliases": []
+  },
+  {
+    "name": "pâte de curry jaune",
+    "normalizedName": "pâte de curry jaune",
+    "aliases": []
+  },
+  {
+    "name": "harissa",
+    "normalizedName": "harissa",
+    "aliases": []
+  },
+  {
+    "name": "tapenade noire",
+    "normalizedName": "tapenade noire",
+    "aliases": []
+  },
+  {
+    "name": "tapenade verte",
+    "normalizedName": "tapenade verte",
+    "aliases": []
+  },
+  {
+    "name": "câpres",
+    "normalizedName": "câpres",
+    "aliases": []
+  },
+  {
+    "name": "cornichons",
+    "normalizedName": "cornichons",
+    "aliases": []
+  },
+  {
+    "name": "olives dénoyautées",
+    "normalizedName": "olives dénoyautées",
+    "aliases": []
+  },
+  {
+    "name": "bouillon de légumes",
+    "normalizedName": "bouillon de légumes",
+    "aliases": []
+  },
+  {
+    "name": "bouillon de volaille",
+    "normalizedName": "bouillon de volaille",
+    "aliases": []
+  },
+  {
+    "name": "bouillon de bœuf",
+    "normalizedName": "bouillon de bœuf",
+    "aliases": []
+  },
+  {
+    "name": "fond de veau",
+    "normalizedName": "fond de veau",
+    "aliases": []
+  },
+  {
+    "name": "fond de poisson",
+    "normalizedName": "fond de poisson",
+    "aliases": []
+  },
+  {
+    "name": "vin blanc sec",
+    "normalizedName": "vin blanc sec",
+    "aliases": []
+  },
+  {
+    "name": "vin rouge",
+    "normalizedName": "vin rouge",
+    "aliases": []
+  },
+  {
+    "name": "vin rosé",
+    "normalizedName": "vin rosé",
+    "aliases": []
+  },
+  {
+    "name": "vin jaune",
+    "normalizedName": "vin jaune",
+    "aliases": []
+  },
+  {
+    "name": "porto",
+    "normalizedName": "porto",
+    "aliases": []
+  },
+  {
+    "name": "madère",
+    "normalizedName": "madère",
+    "aliases": []
+  },
+  {
+    "name": "rhum ambré",
+    "normalizedName": "rhum ambré",
+    "aliases": []
+  },
+  {
+    "name": "rhum blanc",
+    "normalizedName": "rhum blanc",
+    "aliases": []
+  },
+  {
+    "name": "cognac",
+    "normalizedName": "cognac",
+    "aliases": []
+  },
+  {
+    "name": "bière blonde",
+    "normalizedName": "bière blonde",
+    "aliases": []
+  },
+  {
+    "name": "cidre brut",
+    "normalizedName": "cidre brut",
+    "aliases": []
+  },
+  {
+    "name": "gros sel",
+    "normalizedName": "gros sel",
+    "aliases": []
+  },
+  {
+    "name": "sel fin",
+    "normalizedName": "sel fin",
+    "aliases": []
+  },
+  {
+    "name": "fleur de sel",
+    "normalizedName": "fleur de sel",
+    "aliases": []
+  },
+  {
+    "name": "poivre noir",
+    "normalizedName": "poivre noir",
+    "aliases": []
+  },
+  {
+    "name": "poivre blanc",
+    "normalizedName": "poivre blanc",
+    "aliases": []
+  },
+  {
+    "name": "poivre vert",
+    "normalizedName": "poivre vert",
+    "aliases": []
+  },
+  {
+    "name": "poivre de Sichuan",
+    "normalizedName": "poivre de sichuan",
+    "aliases": []
+  },
+  {
+    "name": "piment d'Espelette",
+    "normalizedName": "piment d'espelette",
+    "aliases": []
+  },
+  {
+    "name": "paprika doux",
+    "normalizedName": "paprika doux",
+    "aliases": []
+  },
+  {
+    "name": "paprika fumé",
+    "normalizedName": "paprika fumé",
+    "aliases": []
+  },
+  {
+    "name": "piment de Cayenne",
+    "normalizedName": "piment de cayenne",
+    "aliases": []
+  },
+  {
+    "name": "flocons de piment",
+    "normalizedName": "flocons de piment",
+    "aliases": []
+  },
+  {
+    "name": "curry en poudre",
+    "normalizedName": "curry en poudre",
+    "aliases": []
+  },
+  {
+    "name": "garam masala",
+    "normalizedName": "garam masala",
+    "aliases": []
+  },
+  {
+    "name": "ras el hanout",
+    "normalizedName": "ras el hanout",
+    "aliases": []
+  },
+  {
+    "name": "cinq-épices",
+    "normalizedName": "cinq-épices",
+    "aliases": []
+  },
+  {
+    "name": "quatre-épices",
+    "normalizedName": "quatre-épices",
+    "aliases": []
+  },
+  {
+    "name": "cumin moulu",
+    "normalizedName": "cumin moulu",
+    "aliases": []
+  },
+  {
+    "name": "coriandre moulue",
+    "normalizedName": "coriandre moulue",
+    "aliases": []
+  },
+  {
+    "name": "curcuma moulu",
+    "normalizedName": "curcuma moulu",
+    "aliases": []
+  },
+  {
+    "name": "gingembre moulu",
+    "normalizedName": "gingembre moulu",
+    "aliases": []
+  },
+  {
+    "name": "cannelle moulue",
+    "normalizedName": "cannelle moulue",
+    "aliases": []
+  },
+  {
+    "name": "bâton de cannelle",
+    "normalizedName": "bâton de cannelle",
+    "aliases": []
+  },
+  {
+    "name": "girofle moulu",
+    "normalizedName": "girofle moulu",
+    "aliases": []
+  },
+  {
+    "name": "clou de girofle",
+    "normalizedName": "clou de girofle",
+    "aliases": []
+  },
+  {
+    "name": "cardamome verte",
+    "normalizedName": "cardamome verte",
+    "aliases": []
+  },
+  {
+    "name": "cardamome noire",
+    "normalizedName": "cardamome noire",
+    "aliases": []
+  },
+  {
+    "name": "muscade moulue",
+    "normalizedName": "muscade moulue",
+    "aliases": []
+  },
+  {
+    "name": "noix de muscade",
+    "normalizedName": "noix de muscade",
+    "aliases": []
+  },
+  {
+    "name": "macis",
+    "normalizedName": "macis",
+    "aliases": []
+  },
+  {
+    "name": "safran",
+    "normalizedName": "safran",
+    "aliases": []
+  },
+  {
+    "name": "vanille en gousse",
+    "normalizedName": "vanille en gousse",
+    "aliases": []
+  },
+  {
+    "name": "extrait de vanille",
+    "normalizedName": "extrait de vanille",
+    "aliases": []
+  },
+  {
+    "name": "sucre vanillé",
+    "normalizedName": "sucre vanillé",
+    "aliases": []
+  },
+  {
+    "name": "anis étoilé",
+    "normalizedName": "anis étoilé",
+    "aliases": [
+      "badiane"
+    ]
+  },
+  {
+    "name": "anis vert",
+    "normalizedName": "anis vert",
+    "aliases": []
+  },
+  {
+    "name": "fenugrec",
+    "normalizedName": "fenugrec",
+    "aliases": []
+  },
+  {
+    "name": "sumac",
+    "normalizedName": "sumac",
+    "aliases": []
+  },
+  {
+    "name": "zaatar",
+    "normalizedName": "zaatar",
+    "aliases": []
+  },
+  {
+    "name": "origan séché",
+    "normalizedName": "origan séché",
+    "aliases": []
+  },
+  {
+    "name": "thym séché",
+    "normalizedName": "thym séché",
+    "aliases": []
+  },
+  {
+    "name": "romarin séché",
+    "normalizedName": "romarin séché",
+    "aliases": []
+  },
+  {
+    "name": "sauge séchée",
+    "normalizedName": "sauge séchée",
+    "aliases": []
+  },
+  {
+    "name": "basilic séché",
+    "normalizedName": "basilic séché",
+    "aliases": []
+  },
+  {
+    "name": "herbes de Provence",
+    "normalizedName": "herbes de provence",
+    "aliases": []
+  },
+  {
+    "name": "herbes fraîches",
+    "normalizedName": "herbes fraîches",
+    "aliases": []
+  },
+  {
+    "name": "mélange d'épices pour couscous",
+    "normalizedName": "mélange d'épices pour couscous",
+    "aliases": []
+  },
+  {
+    "name": "mélange d'épices pour pain d'épices",
+    "normalizedName": "mélange d'épices pour pain d'épices",
+    "aliases": []
+  },
+  {
+    "name": "mélange d'épices pour barbecue",
+    "normalizedName": "mélange d'épices pour barbecue",
+    "aliases": []
+  },
+  {
+    "name": "ail en poudre",
+    "normalizedName": "ail en poudre",
+    "aliases": []
+  },
+  {
+    "name": "oignon en poudre",
+    "normalizedName": "oignon en poudre",
+    "aliases": []
+  },
+  {
+    "name": "persil séché",
+    "normalizedName": "persil séché",
+    "aliases": []
+  },
+  {
+    "name": "aneth séché",
+    "normalizedName": "aneth séché",
+    "aliases": []
+  },
+  {
+    "name": "laurier séché",
+    "normalizedName": "laurier séché",
+    "aliases": []
+  },
+  {
+    "name": "sucre blanc",
+    "normalizedName": "sucre blanc",
+    "aliases": []
+  },
+  {
+    "name": "sucre roux",
+    "normalizedName": "sucre roux",
+    "aliases": []
+  },
+  {
+    "name": "cassonade",
+    "normalizedName": "cassonade",
+    "aliases": []
+  },
+  {
+    "name": "sucre glace",
+    "normalizedName": "sucre glace",
+    "aliases": []
+  },
+  {
+    "name": "sucre de canne",
+    "normalizedName": "sucre de canne",
+    "aliases": []
+  },
+  {
+    "name": "sucre complet",
+    "normalizedName": "sucre complet",
+    "aliases": []
+  },
+  {
+    "name": "miel",
+    "normalizedName": "miel",
+    "aliases": []
+  },
+  {
+    "name": "sirop d'érable",
+    "normalizedName": "sirop d'érable",
+    "aliases": []
+  },
+  {
+    "name": "sirop d'agave",
+    "normalizedName": "sirop d'agave",
+    "aliases": []
+  },
+  {
+    "name": "sirop de glucose",
+    "normalizedName": "sirop de glucose",
+    "aliases": []
+  },
+  {
+    "name": "sirop de maïs",
+    "normalizedName": "sirop de maïs",
+    "aliases": []
+  },
+  {
+    "name": "mélasse",
+    "normalizedName": "mélasse",
+    "aliases": []
+  },
+  {
+    "name": "confiture d'abricot",
+    "normalizedName": "confiture d'abricot",
+    "aliases": []
+  },
+  {
+    "name": "confiture de fraise",
+    "normalizedName": "confiture de fraise",
+    "aliases": []
+  },
+  {
+    "name": "confiture de framboise",
+    "normalizedName": "confiture de framboise",
+    "aliases": []
+  },
+  {
+    "name": "pâte à tartiner au chocolat",
+    "normalizedName": "pâte à tartiner au chocolat",
+    "aliases": []
+  },
+  {
+    "name": "chocolat noir",
+    "normalizedName": "chocolat noir",
+    "aliases": []
+  },
+  {
+    "name": "chocolat au lait",
+    "normalizedName": "chocolat au lait",
+    "aliases": []
+  },
+  {
+    "name": "chocolat blanc",
+    "normalizedName": "chocolat blanc",
+    "aliases": []
+  },
+  {
+    "name": "cacao en poudre",
+    "normalizedName": "cacao en poudre",
+    "aliases": []
+  },
+  {
+    "name": "pépites de chocolat",
+    "normalizedName": "pépites de chocolat",
+    "aliases": []
+  },
+  {
+    "name": "caramel",
+    "normalizedName": "caramel",
+    "aliases": []
+  },
+  {
+    "name": "praliné",
+    "normalizedName": "praliné",
+    "aliases": []
+  },
+  {
+    "name": "pâte d'amande",
+    "normalizedName": "pâte d'amande",
+    "aliases": []
+  },
+  {
+    "name": "poudre d'amande",
+    "normalizedName": "poudre d'amande",
+    "aliases": []
+  },
+  {
+    "name": "noix de coco en poudre",
+    "normalizedName": "noix de coco en poudre",
+    "aliases": []
+  },
+  {
+    "name": "agar-agar",
+    "normalizedName": "agar-agar",
+    "aliases": []
+  },
+  {
+    "name": "gélatine en feuilles",
+    "normalizedName": "gélatine en feuilles",
+    "aliases": []
+  },
+  {
+    "name": "gélatine en poudre",
+    "normalizedName": "gélatine en poudre",
+    "aliases": []
+  },
+  {
+    "name": "pectine",
+    "normalizedName": "pectine",
+    "aliases": []
+  },
+  {
+    "name": "maïzena",
+    "normalizedName": "maïzena",
+    "aliases": []
+  },
+  {
+    "name": "café moulu",
+    "normalizedName": "café moulu",
+    "aliases": []
+  },
+  {
+    "name": "café soluble",
+    "normalizedName": "café soluble",
+    "aliases": []
+  },
+  {
+    "name": "thé vert",
+    "normalizedName": "thé vert",
+    "aliases": []
+  },
+  {
+    "name": "thé noir",
+    "normalizedName": "thé noir",
+    "aliases": []
+  },
+  {
+    "name": "thé matcha",
+    "normalizedName": "thé matcha",
+    "aliases": []
+  },
+  {
+    "name": "infusion de camomille",
+    "normalizedName": "infusion de camomille",
+    "aliases": []
+  },
+  {
+    "name": "tortilla de blé",
+    "normalizedName": "tortilla de blé",
+    "aliases": []
+  },
+  {
+    "name": "tortilla de maïs",
+    "normalizedName": "tortilla de maïs",
+    "aliases": []
+  },
+  {
+    "name": "feuilles de brick",
+    "normalizedName": "feuilles de brick",
+    "aliases": []
+  },
+  {
+    "name": "feuilles de riz",
+    "normalizedName": "feuilles de riz",
+    "aliases": []
+  },
+  {
+    "name": "lait de coco",
+    "normalizedName": "lait de coco",
+    "aliases": []
+  },
+  {
+    "name": "crème de coco",
+    "normalizedName": "crème de coco",
+    "aliases": []
+  },
+  {
+    "name": "lait d'amande",
+    "normalizedName": "lait d'amande",
+    "aliases": []
+  },
+  {
+    "name": "lait de soja",
+    "normalizedName": "lait de soja",
+    "aliases": []
+  },
+  {
+    "name": "lait d'avoine",
+    "normalizedName": "lait d'avoine",
+    "aliases": []
+  },
+  {
+    "name": "lait de riz",
+    "normalizedName": "lait de riz",
+    "aliases": []
+  },
+  {
+    "name": "boisson de noisette",
+    "normalizedName": "boisson de noisette",
+    "aliases": []
+  },
+  {
+    "name": "dashi",
+    "normalizedName": "dashi",
+    "aliases": []
+  },
+  {
+    "name": "kimchi",
+    "normalizedName": "kimchi",
+    "aliases": []
+  },
+  {
+    "name": "moutarde en poudre",
+    "normalizedName": "moutarde en poudre",
+    "aliases": []
+  },
+  {
+    "name": "poivre long",
+    "normalizedName": "poivre long",
+    "aliases": []
+  },
+  {
+    "name": "poivre de Jamaïque",
+    "normalizedName": "poivre de jamaïque",
+    "aliases": []
+  },
+  {
+    "name": "piment chipotle",
+    "normalizedName": "piment chipotle",
+    "aliases": []
+  },
+  {
+    "name": "piment ancho",
+    "normalizedName": "piment ancho",
+    "aliases": []
+  },
+  {
+    "name": "piment habanero",
+    "normalizedName": "piment habanero",
+    "aliases": []
+  },
+  {
+    "name": "piment oiseau",
+    "normalizedName": "piment oiseau",
+    "aliases": []
+  },
+  {
+    "name": "chutney de mangue",
+    "normalizedName": "chutney de mangue",
+    "aliases": []
+  },
+  {
+    "name": "chutney d'oignon",
+    "normalizedName": "chutney d'oignon",
+    "aliases": []
+  },
+  {
+    "name": "sauce teriyaki",
+    "normalizedName": "sauce teriyaki",
+    "aliases": []
+  },
+  {
+    "name": "mirin",
+    "normalizedName": "mirin",
+    "aliases": []
+  },
+  {
+    "name": "saké de cuisine",
+    "normalizedName": "saké de cuisine",
+    "aliases": []
+  },
+  {
+    "name": "vinaigre de malt",
+    "normalizedName": "vinaigre de malt",
+    "aliases": []
+  },
+  {
+    "name": "marmite",
+    "normalizedName": "marmite",
+    "aliases": [
+      "extrait de levure"
+    ]
+  },
+  {
+    "name": "gingembre confit",
+    "normalizedName": "gingembre confit",
+    "aliases": []
+  },
+  {
+    "name": "citronnelle séchée",
+    "normalizedName": "citronnelle séchée",
+    "aliases": []
+  },
+  {
+    "name": "feuilles de lime kaffir",
+    "normalizedName": "feuilles de lime kaffir",
+    "aliases": []
+  },
+  {
+    "name": "feuilles de curry",
+    "normalizedName": "feuilles de curry",
+    "aliases": []
+  },
+  {
+    "name": "curry vert frais",
+    "normalizedName": "curry vert frais",
+    "aliases": []
+  },
+  {
+    "name": "dinde hachée",
+    "normalizedName": "dinde hachée",
+    "aliases": []
+  },
+  {
+    "name": "porc haché",
+    "normalizedName": "porc haché",
+    "aliases": []
+  },
+  {
+    "name": "veau haché",
+    "normalizedName": "veau haché",
+    "aliases": []
+  },
+  {
+    "name": "saucisse végétale",
+    "normalizedName": "saucisse végétale",
+    "aliases": []
+  },
+  {
+    "name": "jambon de volaille",
+    "normalizedName": "jambon de volaille",
+    "aliases": []
+  },
+  {
+    "name": "tomate concassée",
+    "normalizedName": "tomate concassée",
+    "aliases": []
+  },
+  {
+    "name": "passata de tomate",
+    "normalizedName": "passata de tomate",
+    "aliases": []
+  },
+  {
+    "name": "poivron en conserve",
+    "normalizedName": "poivron en conserve",
+    "aliases": []
+  },
+  {
+    "name": "artichaut en conserve",
+    "normalizedName": "artichaut en conserve",
+    "aliases": []
+  },
+  {
+    "name": "haricots blancs en conserve",
+    "normalizedName": "haricots blancs en conserve",
+    "aliases": []
+  },
+  {
+    "name": "pois chiches en conserve",
+    "normalizedName": "pois chiches en conserve",
+    "aliases": []
+  },
+  {
+    "name": "maïs en conserve",
+    "normalizedName": "maïs en conserve",
+    "aliases": []
+  },
+  {
+    "name": "thon au naturel",
+    "normalizedName": "thon au naturel",
+    "aliases": []
+  },
+  {
+    "name": "lait de coco en conserve",
+    "normalizedName": "lait de coco en conserve",
+    "aliases": []
+  },
+  {
+    "name": "gorgonzola",
+    "normalizedName": "gorgonzola",
+    "aliases": []
+  },
+  {
+    "name": "chèvre sec",
+    "normalizedName": "chèvre sec",
+    "aliases": []
+  },
+  {
+    "name": "fromage frais",
+    "normalizedName": "fromage frais",
+    "aliases": []
+  },
+  {
+    "name": "fromage râpé",
+    "normalizedName": "fromage râpé",
+    "aliases": []
+  },
+  {
+    "name": "galette de riz",
+    "normalizedName": "galette de riz",
+    "aliases": []
+  },
+  {
+    "name": "farine de tapioca",
+    "normalizedName": "farine de tapioca",
+    "aliases": []
+  },
+  {
+    "name": "tapioca",
+    "normalizedName": "tapioca",
+    "aliases": []
+  },
+  {
+    "name": "vermicelles de riz",
+    "normalizedName": "vermicelles de riz",
+    "aliases": []
+  },
+  {
+    "name": "grenade séchée",
+    "normalizedName": "grenade séchée",
+    "aliases": []
+  },
+  {
+    "name": "baies de genièvre",
+    "normalizedName": "baies de genièvre",
+    "aliases": []
+  },
+  {
+    "name": "glace pilée",
+    "normalizedName": "glace pilée",
+    "aliases": []
+  }
+]
